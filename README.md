@@ -9,7 +9,7 @@
 ## General info
 Security-Benchmarking-Tool - a desktop application which works with cyber security audit policies - which allows configuration of a system’s vulnerability to different attacks and enforce certain security configurations based on community best practices.
 
-##Lab 1 Task
+## Lab 1 Task
 • Import the manually downloaded policies from a predefined trusted location
 
 • Parse and understand the format of data within the imported policy
